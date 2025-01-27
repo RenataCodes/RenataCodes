@@ -8,6 +8,10 @@ I'm Renata Albuquerque, I'm a front end programmer 👩🏻‍💻. I currently 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Java-logo" />
 - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="React-logo" />
 
+
+[![Renata Albq](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataCodes)](https://github.com/anuraghazra/github-readme-stats)
+![Renata Albq](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### Contacts: 
 
 <p>
@@ -19,21 +23,6 @@ I'm Renata Albuquerque, I'm a front end programmer 👩🏻‍💻. I currently 
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Logo" />
 </a>
 
-
-[![Renata Albq](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataCodes)](https://github.com/anuraghazra/github-readme-stats)
-![Renata Albq](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
       
-</a>
 
-</a>
-
-</a>
-
-</a>
-
-</a>
-
-
-  </a>
 </p>
