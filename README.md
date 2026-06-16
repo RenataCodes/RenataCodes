@@ -13,10 +13,9 @@ I'm Renata Albuquerque, I'm a front end programmer 👩🏻‍💻. I currently 
 ![Renata Albq](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Contacts: 
-
 <p>
-  <a href="mailto:renata.albq100@gmail.com" target="_blank">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renata.albq100@gmail.com)
+</p>
+
 </a>
   
-
-</p>
